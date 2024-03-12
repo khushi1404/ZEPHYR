@@ -10,7 +10,8 @@ HTML5: Version 12
 MySQL: Version 12.66
 NodeJS: Version 1.4
 
-#INSTALLATION 
+# INSTALLATION 
+
 $ git clone https://our link.com
 $ cd ../path/to/the/file/your folder
 $ npm install live server
